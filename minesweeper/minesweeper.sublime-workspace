@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"project",
+				"project_shortcut"
+			],
+			[
+				"dev_en",
+				"dev_end_date"
+			],
+			[
+				"dev_st",
+				"dev_start_date"
+			],
+			[
+				"proper",
+				"property_value"
+			],
+			[
+				"plannin",
+				"planning_estimate"
+			],
+			[
+				"dev",
+				"dev_end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mauro/Projects/DevOps/vendor/performance/Neustar/scripts/check_dealermatch_com",
+		"/Users/mauro/Projects/agile_stats/Gemfile",
+		"/Users/mauro/Projects/agile_stats/mingle_cards.rb",
+		"/Users/mauro/Projects/agile_stats/csv_reader.rb",
+		"/Users/mauro/Projects/metrics/box_plot.r",
+		"/Users/mauro/Projects/Corndog/app/models/image.rb",
+		"/Users/mauro/Projects/Corndog/app/models/vehicle.rb",
+		"/Users/mauro/Desktop/WellsFargo Fraud.txt",
+		"/Users/mauro/script-validator-4.1.0/bin/har.js",
+		"/Users/mauro/Dropbox/CDE/1 on 1 Notes/Mike Sweeney/Mike Sweeney.txt",
+		"/Users/mauro/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mauro/Projects/Corndog/app/controllers/vehicles_controller.rb",
+		"/Users/mauro/Projects/Corndog/lib/cde/search_result.rb",
+		"/Users/mauro/Documents/stories_2012_5_13_ready.csv",
+		"/Users/mauro/Dropbox/Projects/agile_stats/Gemfile",
+		"/Users/mauro/Desktop/Operations.txt",
+		"/Users/mauro/Dropbox/Projects/agile_stats/csv_reader.rb",
+		"/Users/mauro/Projects/neustar/monitor.js",
+		"/Users/mauro/Downloads/sample_1333987102.har",
+		"/Users/mauro/Documents/StoryAnalysis.csv",
+		"/Users/mauro/Dropbox/CDE/Recruiting Notes/Steve Afnani.txt",
+		"/Users/mauro/Dropbox/CDE/Recruiting Notes/Govind Naroji.txt",
+		"/Users/mauro/Desktop/Alex Sieland.txt",
+		"/Users/mauro/Downloads/sample_1333739131.har",
+		"/Users/mauro/Desktop/Erick Wright.txt",
+		"/Users/mauro/Desktop/Aaron Scott.txt",
+		"/Users/mauro/Desktop/Yun Hui.txt",
+		"/Users/mauro/monitor.js",
+		"/Users/mauro/Projects/Corndog/features/smoke/smoke.feature",
+		"/Users/mauro/Desktop/Williams Sanders.txt",
+		"/Users/mauro/Desktop/Rebecca.txt",
+		"/Users/mauro/Desktop/Nick Temple.txt",
+		"/Users/mauro/Desktop/Sharjeel Tariq.txt",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/apache2/httpd.conf",
+		"/private/etc/apache2/extra/tapas.conf",
+		"/Users/mauro/Projects/Corndog/config/setup_load_paths.rb",
+		"/Users/mauro/Projects/Corndog/config/mongoid.yml",
+		"/Users/mauro/Projects/Corndog/config/sunspot.yml",
+		"/Users/mauro/Projects/Corndog/.rvmrc",
+		"/Users/mauro/.rvm/log/ruby-1.9.3-p0/configure.log",
+		"/Users/mauro/Projects/Corndog/Gemfile",
+		"/Users/mauro/Projects/vagrant_guide/Vagrantfile",
+		"/Users/mauro/.zshrc",
+		"/Users/mauro/Projects/vagrant_guide/.rvmrc",
+		"/Users/mauro/Projects/Corndog/config/environments/staging.rb",
+		"/Users/mauro/Desktop/Michael_Blake.txt",
+		"/Users/mauro/Desktop/Joshua_Westmoreland.txt",
+		"/Users/mauro/.rvm/log/ruby-1.9.3-p125/configure.log",
+		"/Users/mauro/Desktop/Daniel Feedback.txt",
+		"/Users/mauro/Desktop/Allan Feedback.txt",
+		"/Users/mauro/Downloads/Hedwig.vbox",
+		"/Users/mauro/Downloads/Hedwig.vbox-prev",
+		"/Users/mauro/Library/VirtualBox/VirtualBox.xml",
+		"/Users/mauro/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/mauro/Projects/Corndog/app/controllers/admin_controller.rb",
+		"/Users/mauro/.zshrc.pre-oh-my-zsh",
+		"/Users/mauro/.bash_profile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/mauro/Projects/Corndog",
+			"/Users/mauro/Projects/Corndog/features",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			" &&",
+			"Iteration",
+			"iteration",
+			"break",
+			"sanity",
+			"@smoke",
+			"Virtual Host",
+			"session",
+			"new",
+			"rvm",
+			"5f222d9-1c49-4c90-9ddd-02b9dc83ef27",
+			"C:",
+			"MachineEntry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
