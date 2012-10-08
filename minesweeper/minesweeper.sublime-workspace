@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max_y"
+			],
+			[
 				"project",
 				"project_shortcut"
 			],
@@ -31,6 +35,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "ruby/lib/board.rb",
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ruby/Gemfile",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,6 +84,8 @@
 	},
 	"file_history":
 	[
+		"/Users/mauro/Projects/katas/minesweeper/ruby/spec/board_spec.rb",
+		"/Users/mauro/Projects/katas/minesweeper/ruby/spec/spec_helper.rb",
 		"/Users/mauro/Projects/DevOps/vendor/performance/Neustar/scripts/check_dealermatch_com",
 		"/Users/mauro/Projects/agile_stats/Gemfile",
 		"/Users/mauro/Projects/agile_stats/mingle_cards.rb",
@@ -173,8 +195,61 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "ruby/lib/board.rb",
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ruby/Gemfile",
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
