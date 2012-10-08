@@ -16,6 +16,3 @@ tmp
 .yardoc
 _yardoc
 doc/
-
-/*.sublime-workspace
-/*.sublime-project
